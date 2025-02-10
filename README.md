@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Nijamud! 👋
 
-<!--
-**nijamud/nijamud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate developer with a keen interest in learning new technologies and improving my skills. I am eager to collaborate with others and contribute to impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Tools:** Git, Docker, Kubernetes, Jenkins
+- **Databases:** MySQL, PostgreSQL, MongoDB
+
+
+## GitHub Stats
+
+![Nijamud's GitHub stats](https://github-readme-stats.vercel.app/api?username=nijamud&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nijamud&layout=compact&theme=radical)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
